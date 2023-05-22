@@ -1,0 +1,5 @@
+IP: 51.250.27.121;
+name_taski: https://baronfas.hopto.org;
+name_kittygram: https://baronfel.ddns.net/;
+login: baron;
+password: 1; 
